@@ -1,0 +1,26 @@
+label {
+  color: #777;
+}
+
+#email1,
+#username {
+  border-radius: 3px;
+  border: 1px solid #777;
+  padding: 3px;
+}
+
+#email1:hover {
+  border: 1px solid blue;
+}
+
+#submit {
+  padding: 5px 9px;
+  background-color: #D11F5D;
+  color: white;
+  border: none;
+}
+
+#submit:hover {
+  background-color: #e74b82;
+  color: white;
+}
